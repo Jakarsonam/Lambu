@@ -1,0 +1,6 @@
+{
+  "name": "Phunsto Lumbu - Evening Seniors & AI Studio",
+  "description": "A cozy evening retreat at Phunsto Lumbu Restaurant for seniors, featuring Gemini image creation and Veo video animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
